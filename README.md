@@ -1,4 +1,4 @@
-## Wallet app
+# Wallet app
 
 Flutter OET Mini Project
 Group 26
